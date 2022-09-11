@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Preview URL: [Add live site URL here](https://tcaken.github.io/qr-code-component-main/)
+- Preview URL: [Github Page](https://tcaken.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -36,4 +36,4 @@ In this challenge, i have applied some knowledges that i learned in past months.
 ## Author
 
 - Frontend Mentor - [@TCaken](https://www.frontendmentor.io/profile/TCaken)
-- LinkedIn - (https://www.linkedin.com/in/tan-caken-350275181)
+- LinkedIn - [Tan Caken](https://www.linkedin.com/in/tan-caken-350275181)
