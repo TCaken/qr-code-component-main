@@ -1,0 +1,38 @@
+.div-body{
+    background-color: hsl(212, 45%, 89%);
+    padding: 10% 0 10%;
+    text-align: center;
+    width: 100%;
+}
+
+img {
+    width: 320px;
+    border-radius: 5%;
+}
+
+.p-body{
+    padding: 0 18px 12px;
+}
+
+.qr-body{
+    background-color: hsl(0, 0%, 100%) ;
+    border-radius: 5%;
+    margin: 0 auto;
+    padding: 18px 18px 18px 18px;
+    width: 320px;
+}
+.text1-body{
+    color: hsl(218, 44%, 22%) ;
+    font-family: 'Outfit', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.text2-body{
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+
+}
